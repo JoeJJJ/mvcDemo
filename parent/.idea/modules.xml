@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../back/back_dao/back_dao.iml" filepath="$PROJECT_DIR$/../back/back_dao/back_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../back/back_service/back_service.iml" filepath="$PROJECT_DIR$/../back/back_service/back_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../portal/portal_dao/portal_dao.iml" filepath="$PROJECT_DIR$/../portal/portal_dao/portal_dao.iml" />
+    </modules>
+  </component>
+</project>
